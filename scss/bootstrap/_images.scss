@@ -9,6 +9,12 @@
   @include img-fluid;
 }
 
+// Keep the image to a max of 60%
+
+.img-fluid60 {
+    max-width: 60%;
+    height: auto;
+}
 
 // Image thumbnails
 .img-thumbnail {
