@@ -18,15 +18,15 @@ body {
   -webkit-text-fill-color: transparent; }
 
 ::-moz-selection {
-  background: #000;
+  background: #31acd1;
   color: #fff; }
 
 ::selection {
-  background: #000;
+  background: #31acd1;
   color: #fff; }
 
 ::-moz-selection {
-  background: #000;
+  background: #31acd1;
   color: #fff; }
 
 h1, h2, h3, h4, h5 {
