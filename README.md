@@ -1,2 +1,1 @@
-# resume
-Testing a resume page
+# AboutMe
